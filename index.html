@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Metro Santiago DataViz</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<link href="css/bootstrap.min.css" media="screen" rel="stylesheet" type="text/css" />
+		<link href="css/bootstrap-theme.min.css" media="screen" rel="stylesheet" type="text/css" />
+		<link href="css/slider.css" media="screen" rel="stylesheet" type="text/css" />
+
+		<link href="css/santiago.colors.css" media="screen" rel="stylesheet" type="text/css" />
+		<link href="css/main.css" media="screen" rel="stylesheet" type="text/css" />
+
+		<script src="js/jquery-1.10.2.min.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+		<script src="js/bootstrap-slider.js"></script>
+		<script src="js/d3.v3.min.js"></script>
+		
+		<script src="js/main.js"></script>
+		<script src="js/santiago.js"></script>
+		<script src="js/helpers.js"></script>
+		<script src="js/mouse.helpers.js"></script>
+		<script src="js/mapa.js"></script>
+
+	</head>
+	<body>
+
+		<nav class="navbar navbar-default navbar-inverse" role="navigation">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="container">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<a class="navbar-brand" href="http://chile.data-publica.com"><img src="http://www.data-publica.com/static/img/logo.png"></a>
+					<!--<a class="navbar-brand" href="#">Brand</a>-->
+				</div>
+
+				<!-- Collect the nav links, forms, and other content for toggling -->
+				<div class="collapse navbar-collapse navbar-ex1-collapse">
+					<!--<ul class="nav navbar-nav">
+						<li class="active">
+							<a href="#">Link</a>
+						</li>
+						<li>
+							<a href="#">Link</a>
+						</li>
+					</ul>
+
+					<ul class="nav navbar-nav navbar-right">
+						<li>
+							<a href="https://twitter.com/share" class="twitter-share-button" data-via="datapublica" data-lang="fr" data-dnt="true">Twitter</a>
+						</li>
+						<li>
+							<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Flabs.data-publica.com/ratp/&amp;layout=button_count&amp;action=like&amp;colorscheme=light" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100%; height:20px;" allowTransparency="true"></iframe>
+						</li>
+						<script>
+							! function(d, s, id) {
+								var js, fjs = d.getElementsByTagName(s)[0];
+								if (!d.getElementById(id)) {
+									js = d.createElement(s);
+									js.id = id;
+									js.src = "//platform.twitter.com/widgets.js";
+									fjs.parentNode.insertBefore(js, fjs);
+								}
+							}(document, "script", "twitter-wjs");
+						</script>
+						<li>
+							<a href="https://github.com/datapublica/ratp-trafic-map"><img src="http://www.github.com/favicon.ico" />&nbsp;Github</a>
+						</li>
+					</ul>-->
+				</div><!-- /.navbar-collapse -->
+			</div>
+		</nav>
+
+		<div class="container">
+			<div class="row">
+				<div id="header" class="col-lg-12">
+					<h2>Estimación del tráfico diario en el metro de Santiago</h2>
+				</div>
+			</div>
+			
+			<div class="row">
+				<div class="col-lg-9">
+					<div class="row">
+						<div class="col-lg-4">
+							<div id="hour_slider" data-slider-range="true"></div>
+						</div>
+						<div id="values" class="col-lg-5">
+								Mínimo: <span id="min"></span>
+								Máximo: <span id="max"></span>
+								Promedio: <span id="media"></span>
+						</div>
+						<div class="col-lg-3">
+							<div id="btns" class="btn-group">
+							  	<button id="morning" type="button" class="btn btn-default">Mañana</button>
+								<button id="afternoon" type="button" class="btn btn-default">Tarde</button>
+								<button id="total" type="button" class="btn btn-default">Total</button>
+							</div>
+						</div>
+					</div>
+					<div class="row">
+						<div id="map-container" class="col-lg-12">
+							
+						</div>
+					</div>
+				</div>
+
+				<div id="infos" class="col-lg-3">
+					<div class="active help">
+						<h3>Acerca de este mapa</h3>
+						<p>
+							Número de subidas registradas en cada estación del metro de Santiago, durante un día laboral promedio. La muestra fue elaborada durante una semana laboral (lunes a viernes) en abril de 2012.
+						</p>
+
+						<p>
+							Se puede ver más informaciones al hacer clic sobre una línea o una estación de metro.
+						</p>
+
+						<hr />
+
+						<!--<p>
+						<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Flabs.data-publica.com/ratp/&amp;layout=button_count&amp;action=like&amp;colorscheme=light" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100%; height:20px;" allowTransparency="true"></iframe>
+						<a href="https://twitter.com/share" class="twitter-share-button" data-via="datapublica" data-lang="fr" data-dnt="true">Tweeter</a>
+						<script>
+						! function(d, s, id) {
+						var js, fjs = d.getElementsByTagName(s)[0];
+						if (!d.getElementById(id)) {
+						js = d.createElement(s);
+						js.id = id;
+						js.src = "//platform.twitter.com/widgets.js";
+						fjs.parentNode.insertBefore(js, fjs);
+						}
+						}(document, "script", "twitter-wjs");
+						</script>
+						<br />
+						<a href="https://github.com/datapublica/ratp-trafic-map"><img src="http://www.github.com/favicon.ico" />&nbsp;Github</a>
+						</p>-->
+
+						<hr />
+
+						<div id="dp">
+							<a href="http://chile.data-publica.com"><img src="http://www.data-publica.com/static/img/logo.png"></a>
+						</div>
+
+						<span id="tagline"><i>Datos para su negocio</i></span>
+						<br />
+						<a href="http://chile.data-publica.com">¿Quiénes somos?</a>
+						<br />
+						<a href="http://chile.data-publica.com/2013/10/trafico-diario-en-el-metro-de-santiago.html">Ver el artículo</a>
+
+						<hr />
+
+						<ul class='Fuentes'>
+							<li>
+								FUENTES&nbsp;
+							</li>
+							<li>
+								Matrices de viajes, subidas y bajadas en transporte público&nbsp;: <a href="http://datos.gob.cl/datasets/ver/1655">datos.gob.cl</a>
+							</li>
+							<li>
+								Feed GTFS de Transantiago&nbsp;: <a href="http://datos.gob.cl/datasets/ver/1587">datos.gob.cl</a>
+							</li>
+							<li>
+								Coordenadas de la Región Metropolitana&nbsp;: <a href="http://www.rulamahue.cl/mapoteca/fichas/chile_geo/ficha13geo.html">rulamahue.cl</a>
+							</li>
+							<li>
+								Hecho con <a href="http://d3js.org">D3.js</a>
+							</li>
+						</ul>
+					</div>
+					<div class="infos_station">
+						<h3><span></span></h3>
+
+						<div>
+							<i class="icon-user"></i>&nbsp;Trafic entrant&nbsp;: <span class='trafic'></span> personnes&nbsp;/&nbsp;an
+						</div>
+						<div>
+							<i class="icon-certificate"></i>&nbsp;Rang&nbsp;: <span class='rank'></span>&nbsp;/&nbsp;301
+						</div>
+						<div>
+							<i class="icon-map-marker"></i>&nbsp;Latitude&nbsp;: <span class='latitude'></span>
+						</div>
+						<div>
+							<i class="icon-map-marker"></i>&nbsp;Longitude&nbsp;: <span class='longitude'></span>
+						</div>
+					</div>
+					<div class="infos_line">
+						<h3><span></span></h3>
+					</div>
+					<ul></ul>
+				</div>
+
+			</div>
+		</div>
+		<div id="tooltip">
+			<h4><span id="station_name"></span></h4>
+			Tráfico: <span id="station_trafic"></span><br>
+			Latitud: <span id="station_lat"></span><br>
+			Longitud: <span id="station_lon"></span><br>
+			Ranking: <span id="station_rank"></span><br>
+		</div>
+		<div id="interval"></div>
+	</body>
+</html>

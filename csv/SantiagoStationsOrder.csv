@@ -1,0 +1,109 @@
+Línea,Estación,Combinación,Dirección,Orden,Color
+L1,San Pablo,L5,San Pablo -> Los Dominicos,1,FA0727
+L1,Neptuno,,San Pablo -> Los Dominicos,2,FA0727
+L1,Pajaritos,,San Pablo -> Los Dominicos,3,FA0727
+L1,Las Rejas,,San Pablo -> Los Dominicos,4,FA0727
+L1,Ecuador,,San Pablo -> Los Dominicos,5,FA0727
+L1,San Alberto Hurtado,,San Pablo -> Los Dominicos,6,FA0727
+L1,Universidad de Santiago,,San Pablo -> Los Dominicos,7,FA0727
+L1,Estación Central,,San Pablo -> Los Dominicos,8,FA0727
+L1,Unión Latino Americana,,San Pablo -> Los Dominicos,9,FA0727
+L1,República,,San Pablo -> Los Dominicos,10,FA0727
+L1,Los Héroes,L2,San Pablo -> Los Dominicos,11,FA0727
+L1,La Moneda,,San Pablo -> Los Dominicos,12,FA0727
+L1,Universidad de Chile,,San Pablo -> Los Dominicos,13,FA0727
+L1,Santa Lucía,,San Pablo -> Los Dominicos,14,FA0727
+L1,Universidad Católica,,San Pablo -> Los Dominicos,15,FA0727
+L1,Baquedano,L5,San Pablo -> Los Dominicos,16,FA0727
+L1,Salvador,,San Pablo -> Los Dominicos,17,FA0727
+L1,Manuel Montt,,San Pablo -> Los Dominicos,18,FA0727
+L1,Pedro de Valdivia,,San Pablo -> Los Dominicos,19,FA0727
+L1,Los Leones,,San Pablo -> Los Dominicos,20,FA0727
+L1,Tobalaba,L4,San Pablo -> Los Dominicos,21,FA0727
+L1,El Golf,,San Pablo -> Los Dominicos,22,FA0727
+L1,Alcántara,,San Pablo -> Los Dominicos,23,FA0727
+L1,Escuela Militar,,San Pablo -> Los Dominicos,24,FA0727
+L1,Manquehue,,San Pablo -> Los Dominicos,25,FA0727
+L1,Hernando de Magallanes,,San Pablo -> Los Dominicos,26,FA0727
+L1,Los Dominicos,,San Pablo -> Los Dominicos,27,FA0727
+L2,La Cisterna,L4a,La Cisterna -> Vespucio Norte,1,FF7600
+L2,El Parrón,,La Cisterna -> Vespucio Norte,2,FF7600
+L2,Lo Ovalle,,La Cisterna -> Vespucio Norte,3,FF7600
+L2,Ciudad del Niño,,La Cisterna -> Vespucio Norte,4,FF7600
+L2,Departamental,,La Cisterna -> Vespucio Norte,5,FF7600
+L2,Lo Vial,,La Cisterna -> Vespucio Norte,6,FF7600
+L2,San Miguel,,La Cisterna -> Vespucio Norte,7,FF7600
+L2,El Llano,,La Cisterna -> Vespucio Norte,8,FF7600
+L2,Franklin,,La Cisterna -> Vespucio Norte,9,FF7600
+L2,Rondizzoni,,La Cisterna -> Vespucio Norte,10,FF7600
+L2,Parque OHiggins,,La Cisterna -> Vespucio Norte,11,FF7600
+L2,Toesca,,La Cisterna -> Vespucio Norte,12,FF7600
+L2,Los Héroes,L1,La Cisterna -> Vespucio Norte,13,FF7600
+L2,Santa Ana,,La Cisterna -> Vespucio Norte,14,FF7600
+L2,Cal y Canto,,La Cisterna -> Vespucio Norte,15,FF7600
+L2,Patronato,,La Cisterna -> Vespucio Norte,16,FF7600
+L2,Cerro Blanco,,La Cisterna -> Vespucio Norte,17,FF7600
+L2,Cementerios,,La Cisterna -> Vespucio Norte,18,FF7600
+L2,Einstein,,La Cisterna -> Vespucio Norte,19,FF7600
+L2,Dorsal,,La Cisterna -> Vespucio Norte,20,FF7600
+L2,Zapadores,,La Cisterna -> Vespucio Norte,21,FF7600
+L2,Vespucio Norte,,La Cisterna -> Vespucio Norte,22,FF7600
+L4,Plaza de Puente Alto,,Plaza Puente -> Tobalaba,1,1A1D6A
+L4,Las Mercedes,,Plaza Puente -> Tobalaba,2,1A1D6A
+L4,Protectora de la Infancia,,Plaza Puente -> Tobalaba,3,1A1D6A
+L4,Hospital Sótero del Río,,Plaza Puente -> Tobalaba,4,1A1D6A
+L4,Elisa Correa,,Plaza Puente -> Tobalaba,5,1A1D6A
+L4,Los Quillayes,,Plaza Puente -> Tobalaba,6,1A1D6A
+L4,San José de la Estrella,,Plaza Puente -> Tobalaba,7,1A1D6A
+L4,Trinidad,,Plaza Puente -> Tobalaba,8,1A1D6A
+L4,Rojas Magallanes,,Plaza Puente -> Tobalaba,9,1A1D6A
+L4,Vicente Valdés,L5,Plaza Puente -> Tobalaba,10,1A1D6A
+L4,Vicuña Mackenna,L4a,Plaza Puente -> Tobalaba,11,1A1D6A
+L4,Macul,,Plaza Puente -> Tobalaba,12,1A1D6A
+L4,Las Torres,,Plaza Puente -> Tobalaba,13,1A1D6A
+L4,Quilín,,Plaza Puente -> Tobalaba,14,1A1D6A
+L4,Los Presidentes,,Plaza Puente -> Tobalaba,15,1A1D6A
+L4,Grecia,,Plaza Puente -> Tobalaba,16,1A1D6A
+L4,Los Orientales,,Plaza Puente -> Tobalaba,17,1A1D6A
+L4,Plaza Egaña,,Plaza Puente -> Tobalaba,18,1A1D6A
+L4,Simón Bolivar,,Plaza Puente -> Tobalaba,19,1A1D6A
+L4,Príncipe de Gales,,Plaza Puente -> Tobalaba,20,1A1D6A
+L4,Francisco Bilbao,,Plaza Puente -> Tobalaba,21,1A1D6A
+L4,Cristóbal Colón,,Plaza Puente -> Tobalaba,22,1A1D6A
+L4,Tobalaba,L1,Plaza Puente -> Tobalaba,23,1A1D6A
+L4a,La Cisterna,L2,La Cisterna -> Vicuña Mackenna,1,0A5FCA
+L4a,San Ramón,,La Cisterna -> Vicuña Mackenna,2,0A5FCA
+L4a,Santa Rosa,,La Cisterna -> Vicuña Mackenna,3,0A5FCA
+L4a,La Granja,,La Cisterna -> Vicuña Mackenna,4,0A5FCA
+L4a,Santa Julia,,La Cisterna -> Vicuña Mackenna,5,0A5FCA
+L4a,Vicuña Mackenna,L4,La Cisterna -> Vicuña Mackenna,6,0A5FCA
+L5,Vicente Valdés,L4,Vicente Valdés -> Plaza Maípu,1,008A63
+L5,Bellavista de la Florida,,Vicente Valdés -> Plaza Maípu,2,008A63
+L5,Mirador,,Vicente Valdés -> Plaza Maípu,3,008A63
+L5,Pedrero,,Vicente Valdés -> Plaza Maípu,4,008A63
+L5,San Joaquín,,Vicente Valdés -> Plaza Maípu,5,008A63
+L5,Camino Agrícola,,Vicente Valdés -> Plaza Maípu,6,008A63
+L5,Carlos Valdovinos,,Vicente Valdés -> Plaza Maípu,7,008A63
+L5,Rodrigo de Araya,,Vicente Valdés -> Plaza Maípu,8,008A63
+L5,Ñuble,,Vicente Valdés -> Plaza Maípu,9,008A63
+L5,Irarrázaval,,Vicente Valdés -> Plaza Maípu,10,008A63
+L5,Santa Isabel,,Vicente Valdés -> Plaza Maípu,11,008A63
+L5,Parque Bustamante,,Vicente Valdés -> Plaza Maípu,12,008A63
+L5,Baquedano,L1,Vicente Valdés -> Plaza Maípu,13,008A63
+L5,Bellas Artes,,Vicente Valdés -> Plaza Maípu,14,008A63
+L5,Plaza de Armas,,Vicente Valdés -> Plaza Maípu,15,008A63
+L5,Santa Ana,,Vicente Valdés -> Plaza Maípu,16,008A63
+L5,Cumming,,Vicente Valdés -> Plaza Maípu,17,008A63
+L5,Quinta Normal,,Vicente Valdés -> Plaza Maípu,18,008A63
+L5,Gruta de Lourdes,,Vicente Valdés -> Plaza Maípu,19,008A63
+L5,Blanqueado,,Vicente Valdés -> Plaza Maípu,20,008A63
+L5,Lo Prado,,Vicente Valdés -> Plaza Maípu,21,008A63
+L5,San Pablo,L1,Vicente Valdés -> Plaza Maípu,22,008A63
+L5,Pudahuel,,Vicente Valdés -> Plaza Maípu,23,008A63
+L5,Barrancas,,Vicente Valdés -> Plaza Maípu,24,008A63
+L5,Laguna Sur,,Vicente Valdés -> Plaza Maípu,25,008A63
+L5,Las Parcelas,,Vicente Valdés -> Plaza Maípu,26,008A63
+L5,Monte Tabor,,Vicente Valdés -> Plaza Maípu,27,008A63
+L5,Del Sol,,Vicente Valdés -> Plaza Maípu,28,008A63
+L5,Santiago Bueras,,Vicente Valdés -> Plaza Maípu,29,008A63
+L5,Plaza de Maipú,,Vicente Valdés -> Plaza Maípu,30,008A63

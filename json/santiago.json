@@ -1,0 +1,1357 @@
+{
+  "lines": [
+    {
+      "paths": [
+        [
+          "PP", 
+          "ME", 
+          "PI", 
+          "HS", 
+          "EA", 
+          "LQ", 
+          "JE", 
+          "TR", 
+          "RM", 
+          "VA", 
+          "VM", 
+          "MC", 
+          "LT", 
+          "RQ", 
+          "LP", 
+          "RG", 
+          "OR", 
+          "EG", 
+          "SB", 
+          "GA", 
+          "BI", 
+          "CO", 
+          "TB"
+        ]
+      ], 
+      "key": "L4"
+    }, 
+    {
+      "paths": [
+        [
+          "VA", 
+          "LF", 
+          "MA", 
+          "PE", 
+          "SJ", 
+          "AG", 
+          "CV", 
+          "RA", 
+          "NU", 
+          "IR", 
+          "SI", 
+          "PB", 
+          "BA", 
+          "BE", 
+          "PZ", 
+          "AN", 
+          "RC", 
+          "QN", 
+          "GL", 
+          "BL", 
+          "PR", 
+          "SP", 
+          "PU", 
+          "BR", 
+          "LS", 
+          "PA", 
+          "MT", 
+          "DS", 
+          "BU", 
+          "PM"
+        ]
+      ], 
+      "key": "L5"
+    }, 
+    {
+      "paths": [
+        [
+          "LC", 
+          "RN", 
+          "SR", 
+          "LG", 
+          "JU", 
+          "VM"
+        ]
+      ], 
+      "key": "L4a"
+    }, 
+    {
+      "paths": [
+        [
+          "SP", 
+          "NP", 
+          "PJ", 
+          "LR", 
+          "EC", 
+          "AH", 
+          "US", 
+          "EL", 
+          "LA", 
+          "RP", 
+          "LH", 
+          "LM", 
+          "CH", 
+          "SL", 
+          "UC", 
+          "BA", 
+          "SA", 
+          "MM", 
+          "PV", 
+          "LE", 
+          "TB", 
+          "GO", 
+          "AL", 
+          "EM", 
+          "MQ", 
+          "HM", 
+          "LD"
+        ]
+      ], 
+      "key": "L1"
+    }, 
+    {
+      "paths": [
+        [
+          "LC", 
+          "EP", 
+          "LO", 
+          "CN", 
+          "DE", 
+          "LV", 
+          "SM", 
+          "LL", 
+          "FR", 
+          "RO", 
+          "PQ", 
+          "TO", 
+          "LH", 
+          "AN", 
+          "CA", 
+          "PT", 
+          "CB", 
+          "CE", 
+          "EI", 
+          "DO", 
+          "ZA", 
+          "AV"
+        ]
+      ], 
+      "key": "L2"
+    }
+  ], 
+  "freq": {
+    "CE": {
+      "longitude": "-33.414074", 
+      "lines": [
+        "L2"
+      ], 
+      "name": "Cementerios", 
+      "key": "CE", 
+      "trafic": 4150.0, 
+      "latitude": "-70.643562", 
+      "rank": 97, 
+      "connexion": {}
+    }, 
+    "CA": {
+      "longitude": "-33.432716", 
+      "lines": [
+        "L2"
+      ], 
+      "name": "Cal y Canto", 
+      "key": "CA", 
+      "trafic": 48642.4, 
+      "latitude": "-70.652500", 
+      "rank": 8, 
+      "connexion": {}
+    }, 
+    "GL": {
+      "longitude": "-33.438262", 
+      "lines": [
+        "L5"
+      ], 
+      "name": "Gruta de Lourdes", 
+      "key": "GL", 
+      "trafic": 9715.4, 
+      "latitude": "-70.690838", 
+      "rank": 76, 
+      "connexion": {}
+    }, 
+    "GO": {
+      "longitude": "-33.416611", 
+      "lines": [
+        "L1"
+      ], 
+      "name": "El Golf", 
+      "key": "GO", 
+      "trafic": 21083.4, 
+      "latitude": "-70.595688", 
+      "rank": 34, 
+      "connexion": {}
+    }, 
+    "CB": {
+      "longitude": "-33.422554", 
+      "lines": [
+        "L2"
+      ], 
+      "name": "Cerro Blanco", 
+      "key": "CB", 
+      "trafic": 8783.6, 
+      "latitude": "-70.644974", 
+      "rank": 80, 
+      "connexion": {}
+    }, 
+    "GA": {
+      "longitude": "-33.439163", 
+      "lines": [
+        "L4"
+      ], 
+      "name": "Pr\u00edncipe de Gales", 
+      "key": "GA", 
+      "trafic": 10376.6, 
+      "latitude": "-70.573090", 
+      "rank": 68, 
+      "connexion": {}
+    }, 
+    "CO": {
+      "longitude": "-33.426224", 
+      "lines": [
+        "L4"
+      ], 
+      "name": "Crist\u00f3bal Col\u00f3n", 
+      "key": "CO", 
+      "trafic": 11111.2, 
+      "latitude": "-70.590973", 
+      "rank": 65, 
+      "connexion": {}
+    }, 
+    "CN": {
+      "longitude": "-33.510162", 
+      "lines": [
+        "L2"
+      ], 
+      "name": "Ciudad del Ni\u00f1o", 
+      "key": "CN", 
+      "trafic": 8289.0, 
+      "latitude": "-70.656860", 
+      "rank": 82, 
+      "connexion": {}
+    }, 
+    "CH": {
+      "longitude": "-33.443809", 
+      "lines": [
+        "L1"
+      ], 
+      "name": "Universidad de Chile", 
+      "key": "CH", 
+      "trafic": 67432.4, 
+      "latitude": "-70.650391", 
+      "rank": 1, 
+      "connexion": {}
+    }, 
+    "CV": {
+      "longitude": "-33.485641", 
+      "lines": [
+        "L5"
+      ], 
+      "name": "Carlos Valdovinos", 
+      "key": "CV", 
+      "trafic": 9943.2, 
+      "latitude": "-70.619652", 
+      "rank": 72, 
+      "connexion": {}
+    }, 
+    "TR": {
+      "longitude": "-33.547020", 
+      "lines": [
+        "L4"
+      ], 
+      "name": "Trinidad", 
+      "key": "TR", 
+      "trafic": 8331.4, 
+      "latitude": "-70.587654", 
+      "rank": 81, 
+      "connexion": {}
+    }, 
+    "PQ": {
+      "longitude": "-33.460464", 
+      "lines": [
+        "L2"
+      ], 
+      "name": "Parque O'Higgins", 
+      "key": "PQ", 
+      "trafic": 12724.4, 
+      "latitude": "-70.656868", 
+      "rank": 60, 
+      "connexion": {}
+    }, 
+    "SP": {
+      "longitude": "-33.444226", 
+      "lines": [
+        "L1", 
+        "L5"
+      ], 
+      "name": "San Pablo", 
+      "key": "SP", 
+      "trafic": 30324.6, 
+      "latitude": "-70.723315", 
+      "rank": 25, 
+      "connexion": {}
+    }, 
+    "SR": {
+      "longitude": "-33.542511", 
+      "lines": [
+        "L4a"
+      ], 
+      "name": "Santa Rosa", 
+      "key": "SR", 
+      "trafic": 21030.8, 
+      "latitude": "-70.634125", 
+      "rank": 35, 
+      "connexion": {}
+    }, 
+    "TB": {
+      "longitude": "-33.418145", 
+      "lines": [
+        "L1", 
+        "L4"
+      ], 
+      "name": "Tobalaba", 
+      "key": "TB", 
+      "trafic": 61449.0, 
+      "latitude": "-70.601353", 
+      "rank": 3, 
+      "connexion": {}
+    }, 
+    "AL": {
+      "longitude": "-33.415325", 
+      "lines": [
+        "L1"
+      ], 
+      "name": "Alc\u00e1ntara", 
+      "key": "AL", 
+      "trafic": 15082.8, 
+      "latitude": "-70.589453", 
+      "rank": 52, 
+      "connexion": {}
+    }, 
+    "OR": {
+      "longitude": "-33.462456", 
+      "lines": [
+        "L4"
+      ], 
+      "name": "Los Orientales", 
+      "key": "OR", 
+      "trafic": 7266.4, 
+      "latitude": "-70.573792", 
+      "rank": 87, 
+      "connexion": {}
+    }, 
+    "SA": {
+      "longitude": "-33.433107", 
+      "lines": [
+        "L1"
+      ], 
+      "name": "Salvador", 
+      "key": "SA", 
+      "trafic": 31281.0, 
+      "latitude": "-70.626585", 
+      "rank": 22, 
+      "connexion": {}
+    }, 
+    "SB": {
+      "longitude": "-33.445904", 
+      "lines": [
+        "L4"
+      ], 
+      "name": "Sim\u00f3n Bolivar", 
+      "key": "SB", 
+      "trafic": 6859.0, 
+      "latitude": "-70.572037", 
+      "rank": 90, 
+      "connexion": {}
+    }, 
+    "SM": {
+      "longitude": "-33.488798", 
+      "lines": [
+        "L2"
+      ], 
+      "name": "San Miguel", 
+      "key": "SM", 
+      "trafic": 13737.4, 
+      "latitude": "-70.651178", 
+      "rank": 54, 
+      "connexion": {}
+    }, 
+    "SL": {
+      "longitude": "-33.442691", 
+      "lines": [
+        "L1"
+      ], 
+      "name": "Santa Luc\u00eda", 
+      "key": "SL", 
+      "trafic": 40903.0, 
+      "latitude": "-70.645720", 
+      "rank": 16, 
+      "connexion": {}
+    }, 
+    "SI": {
+      "longitude": "-33.447102", 
+      "lines": [
+        "L5"
+      ], 
+      "name": "Santa Isabel", 
+      "key": "SI", 
+      "trafic": 14831.8, 
+      "latitude": "-70.630402", 
+      "rank": 53, 
+      "connexion": {}
+    }, 
+    "SJ": {
+      "longitude": "-33.498318", 
+      "lines": [
+        "L5"
+      ], 
+      "name": "San Joaqu\u00edn", 
+      "key": "SJ", 
+      "trafic": 21386.6, 
+      "latitude": "-70.616020", 
+      "rank": 32, 
+      "connexion": {}
+    }, 
+    "UC": {
+      "longitude": "-33.440216", 
+      "lines": [
+        "L1"
+      ], 
+      "name": "Universidad Cat\u00f3lica", 
+      "key": "UC", 
+      "trafic": 22534.8, 
+      "latitude": "-70.640549", 
+      "rank": 31, 
+      "connexion": {}
+    }, 
+    "LL": {
+      "longitude": "-33.482703", 
+      "lines": [
+        "L2"
+      ], 
+      "name": "El Llano", 
+      "key": "LL", 
+      "trafic": 10680.2, 
+      "latitude": "-70.649445", 
+      "rank": 66, 
+      "connexion": {}
+    }, 
+    "TO": {
+      "longitude": "-33.452965", 
+      "lines": [
+        "L2"
+      ], 
+      "name": "Toesca", 
+      "key": "TO", 
+      "trafic": 18020.0, 
+      "latitude": "-70.658577", 
+      "rank": 45, 
+      "connexion": {}
+    }, 
+    "DS": {
+      "longitude": "-33.489991", 
+      "lines": [
+        "L5"
+      ], 
+      "name": "Del Sol", 
+      "key": "DS", 
+      "trafic": 6282.0, 
+      "latitude": "-70.752848", 
+      "rank": 93, 
+      "connexion": {}
+    }, 
+    "HS": {
+      "longitude": "-33.576462", 
+      "lines": [
+        "L4"
+      ], 
+      "name": "Hospital S\u00f3tero del R\u00edo", 
+      "key": "HS", 
+      "trafic": 33195.6, 
+      "latitude": "-70.582375", 
+      "rank": 19, 
+      "connexion": {}
+    }, 
+    "PZ": {
+      "longitude": "-33.437260", 
+      "lines": [
+        "L5"
+      ], 
+      "name": "Plaza de Armas", 
+      "key": "PZ", 
+      "trafic": 53902.4, 
+      "latitude": "-70.650551", 
+      "rank": 5, 
+      "connexion": {}
+    }, 
+    "US": {
+      "longitude": "-33.452896", 
+      "lines": [
+        "L1"
+      ], 
+      "name": "Universidad de Santiago", 
+      "key": "US", 
+      "trafic": 30880.2, 
+      "latitude": "-70.686150", 
+      "rank": 23, 
+      "connexion": {}
+    }, 
+    "DE": {
+      "longitude": "-33.502556", 
+      "lines": [
+        "L2"
+      ], 
+      "name": "Departamental", 
+      "key": "DE", 
+      "trafic": 10220.8, 
+      "latitude": "-70.654640", 
+      "rank": 71, 
+      "connexion": {}
+    }, 
+    "HM": {
+      "longitude": "-33.407904", 
+      "lines": [
+        "L1"
+      ], 
+      "name": "Hernando de Magallanes", 
+      "key": "HM", 
+      "trafic": 9899.6, 
+      "latitude": "-70.556213", 
+      "rank": 73, 
+      "connexion": {}
+    }, 
+    "PT": {
+      "longitude": "-33.429630", 
+      "lines": [
+        "L2"
+      ], 
+      "name": "Patronato", 
+      "key": "PT", 
+      "trafic": 12880.2, 
+      "latitude": "-70.647064", 
+      "rank": 58, 
+      "connexion": {}
+    }, 
+    "DO": {
+      "longitude": "-33.396801", 
+      "lines": [
+        "L2"
+      ], 
+      "name": "Dorsal", 
+      "key": "DO", 
+      "trafic": 9842.8, 
+      "latitude": "-70.642677", 
+      "rank": 74, 
+      "connexion": {}
+    }, 
+    "PP": {
+      "longitude": "-33.609547", 
+      "lines": [
+        "L4"
+      ], 
+      "name": "Plaza de Puente Alto", 
+      "key": "PP", 
+      "trafic": 45503.4, 
+      "latitude": "-70.575905", 
+      "rank": 11, 
+      "connexion": {}
+    }, 
+    "LM": {
+      "longitude": "-33.444857", 
+      "lines": [
+        "L1"
+      ], 
+      "name": "La Moneda", 
+      "key": "LM", 
+      "trafic": 43773.8, 
+      "latitude": "-70.654811", 
+      "rank": 13, 
+      "connexion": {}
+    }, 
+    "PR": {
+      "longitude": "-33.443298", 
+      "lines": [
+        "L5"
+      ], 
+      "name": "Lo Prado", 
+      "key": "PR", 
+      "trafic": 3481.0, 
+      "latitude": "-70.716412", 
+      "rank": 99, 
+      "connexion": {}
+    }, 
+    "LO": {
+      "longitude": "-33.517200", 
+      "lines": [
+        "L2"
+      ], 
+      "name": "Lo Ovalle", 
+      "key": "LO", 
+      "trafic": 18727.6, 
+      "latitude": "-70.658707", 
+      "rank": 41, 
+      "connexion": {}
+    }, 
+    "LH": {
+      "longitude": "-33.446108", 
+      "lines": [
+        "L1", 
+        "L2"
+      ], 
+      "name": "Los H\u00e9roes", 
+      "key": "LH", 
+      "trafic": 47944.2, 
+      "latitude": "-70.660360", 
+      "rank": 9, 
+      "connexion": {}
+    }, 
+    "PU": {
+      "longitude": "-33.444830", 
+      "lines": [
+        "L5"
+      ], 
+      "name": "Pudahuel", 
+      "key": "PU", 
+      "trafic": 19242.4, 
+      "latitude": "-70.740722", 
+      "rank": 39, 
+      "connexion": {}
+    }, 
+    "PV": {
+      "longitude": "-33.425465", 
+      "lines": [
+        "L1"
+      ], 
+      "name": "Pedro de Valdivia", 
+      "key": "PV", 
+      "trafic": 52490.0, 
+      "latitude": "-70.614273", 
+      "rank": 6, 
+      "connexion": {}
+    }, 
+    "LD": {
+      "longitude": "-33.407895", 
+      "lines": [
+        "L1"
+      ], 
+      "name": "Los Dominicos", 
+      "key": "LD", 
+      "trafic": 26975.4, 
+      "latitude": "-70.545109", 
+      "rank": 26, 
+      "connexion": {}
+    }, 
+    "LE": {
+      "longitude": "-33.422164", 
+      "lines": [
+        "L1"
+      ], 
+      "name": "Los Leones", 
+      "key": "LE", 
+      "trafic": 43814.8, 
+      "latitude": "-70.608590", 
+      "rank": 12, 
+      "connexion": {}
+    }, 
+    "LF": {
+      "longitude": "-33.519822", 
+      "lines": [
+        "L5"
+      ], 
+      "name": "Bellavista de la Florida", 
+      "key": "LF", 
+      "trafic": 25326.6, 
+      "latitude": "-70.599652", 
+      "rank": 29, 
+      "connexion": {}
+    }, 
+    "LG": {
+      "longitude": "-33.541138", 
+      "lines": [
+        "L4a"
+      ], 
+      "name": "La Granja", 
+      "key": "LG", 
+      "trafic": 6573.2, 
+      "latitude": "-70.615967", 
+      "rank": 92, 
+      "connexion": {}
+    }, 
+    "LA": {
+      "longitude": "-33.449467", 
+      "lines": [
+        "L1"
+      ], 
+      "name": "Uni\u00f3n Latino Americana", 
+      "key": "LA", 
+      "trafic": 18675.0, 
+      "latitude": "-70.673203", 
+      "rank": 42, 
+      "connexion": {}
+    }, 
+    "LC": {
+      "longitude": "-33.537443", 
+      "lines": [
+        "L2", 
+        "L4a"
+      ], 
+      "name": "La Cisterna", 
+      "key": "LC", 
+      "trafic": 74133.2, 
+      "latitude": "-70.664251", 
+      "rank": 0, 
+      "connexion": {}
+    }, 
+    "PA": {
+      "longitude": "-33.475394", 
+      "lines": [
+        "L5"
+      ], 
+      "name": "Las Parcelas", 
+      "key": "PA", 
+      "trafic": 8112.8, 
+      "latitude": "-70.740043", 
+      "rank": 84, 
+      "connexion": {}
+    }, 
+    "PB": {
+      "longitude": "-33.442787", 
+      "lines": [
+        "L5"
+      ], 
+      "name": "Parque Bustamante", 
+      "key": "PB", 
+      "trafic": 19059.4, 
+      "latitude": "-70.631630", 
+      "rank": 40, 
+      "connexion": {}
+    }, 
+    "PE": {
+      "longitude": "-33.507812", 
+      "lines": [
+        "L5"
+      ], 
+      "name": "Pedrero", 
+      "key": "PE", 
+      "trafic": 11657.2, 
+      "latitude": "-70.612663", 
+      "rank": 63, 
+      "connexion": {}
+    }, 
+    "LT": {
+      "longitude": "-33.500034", 
+      "lines": [
+        "L4"
+      ], 
+      "name": "Las Torres", 
+      "key": "LT", 
+      "trafic": 7796.8, 
+      "latitude": "-70.587074", 
+      "rank": 85, 
+      "connexion": {}
+    }, 
+    "PI": {
+      "longitude": "-33.589287", 
+      "lines": [
+        "L4"
+      ], 
+      "name": "Protectora de la Infancia", 
+      "key": "PI", 
+      "trafic": 13418.8, 
+      "latitude": "-70.579704", 
+      "rank": 55, 
+      "connexion": {}
+    }, 
+    "LV": {
+      "longitude": "-33.497272", 
+      "lines": [
+        "L2"
+      ], 
+      "name": "Lo Vial", 
+      "key": "LV", 
+      "trafic": 7724.8, 
+      "latitude": "-70.653107", 
+      "rank": 86, 
+      "connexion": {}
+    }, 
+    "LP": {
+      "longitude": "-33.479797", 
+      "lines": [
+        "L4"
+      ], 
+      "name": "Los Presidentes", 
+      "key": "LP", 
+      "trafic": 8148.4, 
+      "latitude": "-70.578712", 
+      "rank": 83, 
+      "connexion": {}
+    }, 
+    "PM": {
+      "longitude": "-33.510522", 
+      "lines": [
+        "L5"
+      ], 
+      "name": "Plaza de Maip\u00fa", 
+      "key": "PM", 
+      "trafic": 41223.8, 
+      "latitude": "-70.757230", 
+      "rank": 15, 
+      "connexion": {}
+    }, 
+    "LR": {
+      "longitude": "-33.457157", 
+      "lines": [
+        "L1"
+      ], 
+      "name": "Las Rejas", 
+      "key": "LR", 
+      "trafic": 42446.6, 
+      "latitude": "-70.705963", 
+      "rank": 14, 
+      "connexion": {}
+    }, 
+    "LS": {
+      "longitude": "-33.462563", 
+      "lines": [
+        "L5"
+      ], 
+      "name": "Laguna Sur", 
+      "key": "LS", 
+      "trafic": 13285.0, 
+      "latitude": "-70.738066", 
+      "rank": 56, 
+      "connexion": {}
+    }, 
+    "AN": {
+      "longitude": "-33.438254", 
+      "lines": [
+        "L2", 
+        "L5"
+      ], 
+      "name": "Santa Ana", 
+      "key": "AN", 
+      "trafic": 62168.6, 
+      "latitude": "-70.659823", 
+      "rank": 2, 
+      "connexion": {}
+    }, 
+    "EP": {
+      "longitude": "-33.526531", 
+      "lines": [
+        "L2"
+      ], 
+      "name": "El Parr\u00f3n", 
+      "key": "EP", 
+      "trafic": 9527.6, 
+      "latitude": "-70.661423", 
+      "rank": 78, 
+      "connexion": {}
+    }, 
+    "AH": {
+      "longitude": "-33.454113", 
+      "lines": [
+        "L1"
+      ], 
+      "name": "San Alberto Hurtado", 
+      "key": "AH", 
+      "trafic": 19439.2, 
+      "latitude": "-70.692436", 
+      "rank": 38, 
+      "connexion": {}
+    }, 
+    "AG": {
+      "longitude": "-33.491585", 
+      "lines": [
+        "L5"
+      ], 
+      "name": "Camino Agr\u00edcola", 
+      "key": "AG", 
+      "trafic": 16544.2, 
+      "latitude": "-70.617531", 
+      "rank": 47, 
+      "connexion": {}
+    }, 
+    "ZA": {
+      "longitude": "-33.390938", 
+      "lines": [
+        "L2"
+      ], 
+      "name": "Zapadores", 
+      "key": "ZA", 
+      "trafic": 16918.8, 
+      "latitude": "-70.642441", 
+      "rank": 46, 
+      "connexion": {}
+    }, 
+    "EC": {
+      "longitude": "-33.456047", 
+      "lines": [
+        "L1"
+      ], 
+      "name": "Ecuador", 
+      "key": "EC", 
+      "trafic": 13258.4, 
+      "latitude": "-70.699669", 
+      "rank": 57, 
+      "connexion": {}
+    }, 
+    "EA": {
+      "longitude": "-33.569405", 
+      "lines": [
+        "L4"
+      ], 
+      "name": "Elisa Correa", 
+      "key": "EA", 
+      "trafic": 18382.2, 
+      "latitude": "-70.583611", 
+      "rank": 44, 
+      "connexion": {}
+    }, 
+    "EG": {
+      "longitude": "-33.453278", 
+      "lines": [
+        "L4"
+      ], 
+      "name": "Plaza Ega\u00f1a", 
+      "key": "EG", 
+      "trafic": 21208.2, 
+      "latitude": "-70.570732", 
+      "rank": 33, 
+      "connexion": {}
+    }, 
+    "AV": {
+      "longitude": "-33.380429", 
+      "lines": [
+        "L2"
+      ], 
+      "name": "Vespucio Norte", 
+      "key": "AV", 
+      "trafic": 26138.4, 
+      "latitude": "-70.646821", 
+      "rank": 27, 
+      "connexion": {}
+    }, 
+    "EI": {
+      "longitude": "-33.405731", 
+      "lines": [
+        "L2"
+      ], 
+      "name": "Einstein", 
+      "key": "EI", 
+      "trafic": 12323.4, 
+      "latitude": "-70.643135", 
+      "rank": 61, 
+      "connexion": {}
+    }, 
+    "EM": {
+      "longitude": "-33.413752", 
+      "lines": [
+        "L1"
+      ], 
+      "name": "Escuela Militar", 
+      "key": "EM", 
+      "trafic": 50133.2, 
+      "latitude": "-70.583250", 
+      "rank": 7, 
+      "connexion": {}
+    }, 
+    "EL": {
+      "longitude": "-33.450970", 
+      "lines": [
+        "L1"
+      ], 
+      "name": "Estaci\u00f3n Central", 
+      "key": "EL", 
+      "trafic": 46924.4, 
+      "latitude": "-70.679169", 
+      "rank": 10, 
+      "connexion": {}
+    }, 
+    "MM": {
+      "longitude": "-33.428341", 
+      "lines": [
+        "L1"
+      ], 
+      "name": "Manuel Montt", 
+      "key": "MM", 
+      "trafic": 32360.2, 
+      "latitude": "-70.619209", 
+      "rank": 21, 
+      "connexion": {}
+    }, 
+    "MC": {
+      "longitude": "-33.508785", 
+      "lines": [
+        "L4"
+      ], 
+      "name": "Macul", 
+      "key": "MC", 
+      "trafic": 26005.6, 
+      "latitude": "-70.589485", 
+      "rank": 28, 
+      "connexion": {}
+    }, 
+    "MA": {
+      "longitude": "-33.512936", 
+      "lines": [
+        "L5"
+      ], 
+      "name": "Mirador", 
+      "key": "MA", 
+      "trafic": 10245.4, 
+      "latitude": "-70.606583", 
+      "rank": 70, 
+      "connexion": {}
+    }, 
+    "ME": {
+      "longitude": "-33.602119", 
+      "lines": [
+        "L4"
+      ], 
+      "name": "Las Mercedes", 
+      "key": "ME", 
+      "trafic": 16509.8, 
+      "latitude": "-70.577194", 
+      "rank": 48, 
+      "connexion": {}
+    }, 
+    "QN": {
+      "longitude": "-33.440282", 
+      "lines": [
+        "L5"
+      ], 
+      "name": "Quinta Normal", 
+      "key": "QN", 
+      "trafic": 16288.0, 
+      "latitude": "-70.680357", 
+      "rank": 50, 
+      "connexion": {}
+    }, 
+    "IR": {
+      "longitude": "-33.453766", 
+      "lines": [
+        "L5"
+      ], 
+      "name": "Irarr\u00e1zaval", 
+      "key": "IR", 
+      "trafic": 32984.6, 
+      "latitude": "-70.628773", 
+      "rank": 20, 
+      "connexion": {}
+    }, 
+    "MQ": {
+      "longitude": "-33.409251", 
+      "lines": [
+        "L1"
+      ], 
+      "name": "Manquehue", 
+      "key": "MQ", 
+      "trafic": 57503.0, 
+      "latitude": "-70.568734", 
+      "rank": 4, 
+      "connexion": {}
+    }, 
+    "MT": {
+      "longitude": "-33.481816", 
+      "lines": [
+        "L5"
+      ], 
+      "name": "Monte Tabor", 
+      "key": "MT", 
+      "trafic": 3936.2, 
+      "latitude": "-70.745165", 
+      "rank": 98, 
+      "connexion": {}
+    }, 
+    "BE": {
+      "longitude": "-33.436611", 
+      "lines": [
+        "L5"
+      ], 
+      "name": "Bellas Artes", 
+      "key": "BE", 
+      "trafic": 12872.6, 
+      "latitude": "-70.644524", 
+      "rank": 59, 
+      "connexion": {}
+    }, 
+    "BA": {
+      "longitude": "-33.437036", 
+      "lines": [
+        "L1", 
+        "L5"
+      ], 
+      "name": "Baquedano", 
+      "key": "BA", 
+      "trafic": 37643.4, 
+      "latitude": "-70.633527", 
+      "rank": 18, 
+      "connexion": {}
+    }, 
+    "BL": {
+      "longitude": "-33.441505", 
+      "lines": [
+        "L5"
+      ], 
+      "name": "Blanqueado", 
+      "key": "BL", 
+      "trafic": 6889.8, 
+      "latitude": "-70.707321", 
+      "rank": 89, 
+      "connexion": {}
+    }, 
+    "JU": {
+      "longitude": "-33.531105", 
+      "lines": [
+        "L4a"
+      ], 
+      "name": "Santa Julia", 
+      "key": "JU", 
+      "trafic": 4710.4, 
+      "latitude": "-70.605499", 
+      "rank": 96, 
+      "connexion": {}
+    }, 
+    "BI": {
+      "longitude": "-33.431484", 
+      "lines": [
+        "L4"
+      ], 
+      "name": "Francisco Bilbao", 
+      "key": "BI", 
+      "trafic": 20446.4, 
+      "latitude": "-70.584641", 
+      "rank": 37, 
+      "connexion": {}
+    }, 
+    "BU": {
+      "longitude": "-33.496645", 
+      "lines": [
+        "L5"
+      ], 
+      "name": "Santiago Bueras", 
+      "key": "BU", 
+      "trafic": 6830.8, 
+      "latitude": "-70.757567", 
+      "rank": 91, 
+      "connexion": {}
+    }, 
+    "BR": {
+      "longitude": "-33.452669", 
+      "lines": [
+        "L5"
+      ], 
+      "name": "Barrancas", 
+      "key": "BR", 
+      "trafic": 6974.0, 
+      "latitude": "-70.739017", 
+      "rank": 88, 
+      "connexion": {}
+    }, 
+    "VM": {
+      "longitude": "-33.519642", 
+      "lines": [
+        "L4", 
+        "L4a"
+      ], 
+      "name": "Vicu\u00f1a Mackenna", 
+      "key": "VM", 
+      "trafic": 16033.6, 
+      "latitude": "-70.596069", 
+      "rank": 51, 
+      "connexion": {}
+    }, 
+    "FR": {
+      "longitude": "-33.476217", 
+      "lines": [
+        "L2"
+      ], 
+      "name": "Franklin", 
+      "key": "FR", 
+      "trafic": 9063.6, 
+      "latitude": "-70.649632", 
+      "rank": 79, 
+      "connexion": {}
+    }, 
+    "JE": {
+      "longitude": "-33.553356", 
+      "lines": [
+        "L4"
+      ], 
+      "name": "San Jos\u00e9 de la Estrella", 
+      "key": "JE", 
+      "trafic": 9588.4, 
+      "latitude": "-70.586562", 
+      "rank": 77, 
+      "connexion": {}
+    }, 
+    "PJ": {
+      "longitude": "-33.457981", 
+      "lines": [
+        "L1"
+      ], 
+      "name": "Pajaritos", 
+      "key": "PJ", 
+      "trafic": 24110.2, 
+      "latitude": "-70.715775", 
+      "rank": 30, 
+      "connexion": {}
+    }, 
+    "VA": {
+      "longitude": "-33.526337", 
+      "lines": [
+        "L4", 
+        "L5"
+      ], 
+      "name": "Vicente Vald\u00e9s", 
+      "key": "VA", 
+      "trafic": 30484.0, 
+      "latitude": "-70.596756", 
+      "rank": 24, 
+      "connexion": {}
+    }, 
+    "RP": {
+      "longitude": "-33.447952", 
+      "lines": [
+        "L1"
+      ], 
+      "name": "Rep\u00fablica", 
+      "key": "RP", 
+      "trafic": 40672.4, 
+      "latitude": "-70.667564", 
+      "rank": 17, 
+      "connexion": {}
+    }, 
+    "RQ": {
+      "longitude": "-33.487999", 
+      "lines": [
+        "L4"
+      ], 
+      "name": "Quil\u00edn", 
+      "key": "RQ", 
+      "trafic": 10298.6, 
+      "latitude": "-70.580231", 
+      "rank": 69, 
+      "connexion": {}
+    }, 
+    "LQ": {
+      "longitude": "-33.560627", 
+      "lines": [
+        "L4"
+      ], 
+      "name": "Los Quillayes", 
+      "key": "LQ", 
+      "trafic": 9837.8, 
+      "latitude": "-70.585289", 
+      "rank": 75, 
+      "connexion": {}
+    }, 
+    "RG": {
+      "longitude": "-33.468819", 
+      "lines": [
+        "L4"
+      ], 
+      "name": "Grecia", 
+      "key": "RG", 
+      "trafic": 20578.8, 
+      "latitude": "-70.576202", 
+      "rank": 36, 
+      "connexion": {}
+    }, 
+    "NP": {
+      "longitude": "-33.451546", 
+      "lines": [
+        "L1"
+      ], 
+      "name": "Neptuno", 
+      "key": "NP", 
+      "trafic": 10499.4, 
+      "latitude": "-70.722687", 
+      "rank": 67, 
+      "connexion": {}
+    }, 
+    "RC": {
+      "longitude": "-33.439098", 
+      "lines": [
+        "L5"
+      ], 
+      "name": "Cumming", 
+      "key": "RC", 
+      "trafic": 12139.6, 
+      "latitude": "-70.668427", 
+      "rank": 62, 
+      "connexion": {}
+    }, 
+    "NU": {
+      "longitude": "-33.467190", 
+      "lines": [
+        "L5"
+      ], 
+      "name": "\u00d1uble", 
+      "key": "NU", 
+      "trafic": 16464.8, 
+      "latitude": "-70.625186", 
+      "rank": 49, 
+      "connexion": {}
+    }, 
+    "RA": {
+      "longitude": "-33.477516", 
+      "lines": [
+        "L5"
+      ], 
+      "name": "Rodrigo de Araya", 
+      "key": "RA", 
+      "trafic": 11583.6, 
+      "latitude": "-70.622314", 
+      "rank": 64, 
+      "connexion": {}
+    }, 
+    "RN": {
+      "longitude": "-33.541194", 
+      "lines": [
+        "L4a"
+      ], 
+      "name": "San Ram\u00f3n", 
+      "key": "RN", 
+      "trafic": 5603.6, 
+      "latitude": "-70.643671", 
+      "rank": 95, 
+      "connexion": {}
+    }, 
+    "RO": {
+      "longitude": "-33.470043", 
+      "lines": [
+        "L2"
+      ], 
+      "name": "Rondizzoni", 
+      "key": "RO", 
+      "trafic": 18559.8, 
+      "latitude": "-70.656331", 
+      "rank": 43, 
+      "connexion": {}
+    }, 
+    "RM": {
+      "longitude": "-33.535854", 
+      "lines": [
+        "L4"
+      ], 
+      "name": "Rojas Magallanes", 
+      "key": "RM", 
+      "trafic": 5618.4, 
+      "latitude": "-70.592773", 
+      "rank": 94, 
+      "connexion": {}
+    }
+  }
+}

@@ -1,0 +1,6 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+L1,M,,Línea 1,,1,,FA0727,FFFFFF
+L2,M,,Línea 2,,1,http://www.metro.cl/guia-viajero/expresol2,FF7600,0
+L4,M,,Línea 4,,1,http://www.metro.cl/guia-viajero/expresol4,1A1D6A,FFFFFF
+L4A,M,,Línea 4A,,1,,0A5FCA,0
+L5,M,,Línea 5,,1,http://www.metro.cl/guia-viajero/expresol5,008A63,0

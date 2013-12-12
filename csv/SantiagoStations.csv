@@ -1,0 +1,101 @@
+stop_id,stop_code,stop_name,stop_lat,stop_lon,stop_url
+AG,,Camino Agrícola,-33.491585,-70.617531,http://www.metro.cl/estacion/camino-agricola
+AH,,San Alberto Hurtado,-33.454113,-70.692436,http://www.metro.cl/estacion/san-alberto-hurtado
+AL,,Alcántara,-33.415325,-70.589453,http://www.metro.cl/estacion/alcantara
+AN,,Santa Ana,-33.438254,-70.659823,http://www.metro.cl/estacion/santa-ana-l2
+AV,,Vespucio Norte,-33.380429,-70.646821,http://www.metro.cl/estacion/vespucio-norte
+BA,,Baquedano,-33.437036,-70.633527,http://www.metro.cl/estacion/baquedano-l1
+BE,,Bellas Artes,-33.436611,-70.644524,http://www.metro.cl/estacion/bellas-artes
+BI,,Francisco Bilbao,-33.431484,-70.584641,http://www.metro.cl/estacion/francisco-bilbao
+BL,,Blanqueado,-33.441505,-70.707321,http://www.metro.cl/estacion/blanqueado
+BR,,Barrancas,-33.452669,-70.739017,http://www.metro.cl/estacion/barrancas
+BU,,Santiago Bueras,-33.496645,-70.757567,http://www.metro.cl/estacion/santiago-bueras
+CA,,Cal y Canto,-33.432716,-70.652500,http://www.metro.cl/estacion/cal-y-canto
+CB,,Cerro Blanco,-33.422554,-70.644974,http://www.metro.cl/estacion/cerro-blanco
+CE,,Cementerios,-33.414074,-70.643562,http://www.metro.cl/estacion/cementerios
+CH,,Universidad de Chile,-33.443809,-70.650391,http://www.metro.cl/estacion/universidad-de-chile
+CN,,Ciudad del Niño,-33.510162,-70.656860,http://www.metro.cl/estacion/ciudad-del-nino
+CO,,Cristóbal Colón,-33.426224,-70.590973,http://www.metro.cl/estacion/cristobal-colon
+CV,,Carlos Valdovinos,-33.485641,-70.619652,http://www.metro.cl/estacion/carlos-valdovinos
+DE,,Departamental,-33.502556,-70.654640,http://www.metro.cl/estacion/departamental
+DO,,Dorsal,-33.396801,-70.642677,http://www.metro.cl/estacion/dorsal
+DS,,Del Sol,-33.489991,-70.752848,http://www.metro.cl/estacion/del-sol
+EA,,Elisa Correa,-33.569405,-70.583611,http://www.metro.cl/estacion/el-parron
+EC,,Ecuador,-33.456047,-70.699669,http://www.metro.cl/estacion/ecuador
+EG,,Plaza Egaña,-33.453278,-70.570732,http://www.metro.cl/estacion/plaza-egana
+EI,,Einstein,-33.405731,-70.643135,http://www.metro.cl/estacion/einstein
+EL,,Estación Central,-33.450970,-70.679169,http://www.metro.cl/estacion/estacion-central
+EM,,Escuela Militar,-33.413752,-70.583250,http://www.metro.cl/estacion/escuela-militar
+EP,,El Parrón,-33.526531,-70.661423,http://www.metro.cl/estacion/el-llano
+FR,,Franklin,-33.476217,-70.649632,http://www.metro.cl/estacion/franklin
+GA,,Príncipe de Gales,-33.439163,-70.573090,http://www.metro.cl/estacion/principe-de-gales
+GL,,Gruta de Lourdes,-33.438262,-70.690838,http://www.metro.cl/estacion/gruta-de-lourdes
+GO,,El Golf,-33.416611,-70.595688,http://www.metro.cl/estacion/el-golf
+HM,,Hernando de Magallanes,-33.407904,-70.556213,http://www.metro.cl/estacion/hernando-magallanes
+HS,,Hospital Sótero del Río,-33.576462,-70.582375,http://www.metro.cl/estacion/hospital-sotero-del-rio
+IR,,Irarrázaval,-33.453766,-70.628773,http://www.metro.cl/estacion/irarrazaval
+JE,,San José de la Estrella,-33.553356,-70.586562,http://www.metro.cl/estacion/san-jose-de-la-estrella
+JU,,Santa Julia,-33.531105,-70.605499,http://www.metro.cl/estacion/santa-julia
+LA,,Unión Latino Americana,-33.449467,-70.673203,http://www.metro.cl/estacion/union-latinoamericana
+LC,,La Cisterna,-33.537443,-70.664251,http://www.metro.cl/estacion/la-cisterna-l2
+LD,,Los Dominicos,-33.407895,-70.545109,http://www.metro.cl/estacion/los-dominicos
+LE,,Los Leones,-33.422164,-70.608590,http://www.metro.cl/estacion/los-leones
+LF,,Bellavista de la Florida,-33.519822,-70.599652,http://www.metro.cl/estacion/bellavista-de-la-florida
+LG,,La Granja,-33.541138,-70.615967,http://www.metro.cl/estacion/la-granja
+LH,,Los Héroes,-33.446108,-70.660360,http://www.metro.cl/estacion/los-heroes-l1
+LL,,El Llano,-33.482703,-70.649445,http://www.metro.cl/estacion/elisa-correa
+LM,,La Moneda,-33.444857,-70.654811,http://www.metro.cl/estacion/la-moneda
+LO,,Lo Ovalle,-33.517200,-70.658707,http://www.metro.cl/estacion/lo-ovalle
+LP,,Los Presidentes,-33.479797,-70.578712,http://www.metro.cl/estacion/los-presidentes
+LQ,,Los Quillayes,-33.560627,-70.585289,http://www.metro.cl/estacion/los-quillayes
+LR,,Las Rejas,-33.457157,-70.705963,http://www.metro.cl/estacion/las-rejas
+LS,,Laguna Sur,-33.462563,-70.738066,http://www.metro.cl/estacion/laguna-sur
+LT,,Las Torres,-33.500034,-70.587074,http://www.metro.cl/estacion/las-torres
+LV,,Lo Vial,-33.497272,-70.653107,http://www.metro.cl/estacion/lo-vial
+MA,,Mirador,-33.512936,-70.606583,http://www.metro.cl/estacion/mirador
+MC,,Macul,-33.508785,-70.589485,http://www.metro.cl/estacion/macul
+ME,,Las Mercedes,-33.602119,-70.577194,http://www.metro.cl/estacion/las-mercedes
+MM,,Manuel Montt,-33.428341,-70.619209,http://www.metro.cl/estacion/manuel-montt
+MQ,,Manquehue,-33.409251,-70.568734,http://www.metro.cl/estacion/manquehue
+MT,,Monte Tabor,-33.481816,-70.745165,http://www.metro.cl/estacion/monte-tabor
+NP,,Neptuno,-33.451546,-70.722687,http://www.metro.cl/estacion/neptuno
+NU,,Ñuble,-33.467190,-70.625186,http://www.metro.cl/estacion/nuble
+OR,,Los Orientales,-33.462456,-70.573792,http://www.metro.cl/estacion/los-orientales
+PA,,Las Parcelas,-33.475394,-70.740043,http://www.metro.cl/estacion/las-parcelas
+PB,,Parque Bustamante,-33.442787,-70.631630,http://www.metro.cl/estacion/parque-bustamante
+PE,,Pedrero,-33.507812,-70.612663,http://www.metro.cl/estacion/pedrero
+PI,,Protectora de la Infancia,-33.589287,-70.579704,http://www.metro.cl/estacion/protectora-de-la-infancia
+PJ,,Pajaritos,-33.457981,-70.715775,http://www.metro.cl/estacion/pajaritos
+PM,,Plaza de Maipú,-33.510522,-70.757230,http://www.metro.cl/estacion/plaza-maipu
+PP,,Plaza de Puente Alto,-33.609547,-70.575905,http://www.metro.cl/estacion/plaza-puente-alto
+PQ,,Parque O'Higgins,-33.460464,-70.656868,http://www.metro.cl/estacion/parque-ohiggins
+PR,,Lo Prado,-33.443298,-70.716412,http://www.metro.cl/estacion/lo-prado
+PT,,Patronato,-33.429630,-70.647064,http://www.metro.cl/estacion/patronato
+PU,,Pudahuel,-33.444830,-70.740722,http://www.metro.cl/estacion/pudahuel
+PV,,Pedro de Valdivia,-33.425465,-70.614273,http://www.metro.cl/estacion/pedro-de-valdivia
+PZ,,Plaza de Armas,-33.437260,-70.650551,http://www.metro.cl/estacion/plaza-de-armas
+QN,,Quinta Normal,-33.440282,-70.680357,http://www.metro.cl/estacion/quinta-normal
+RA,,Rodrigo de Araya,-33.477516,-70.622314,http://www.metro.cl/estacion/rodrigo-de-araya
+RC,,Cumming,-33.439098,-70.668427,http://www.metro.cl/estacion/cumming
+RG,,Grecia,-33.468819,-70.576202,http://www.metro.cl/estacion/grecia
+RM,,Rojas Magallanes,-33.535854,-70.592773,http://www.metro.cl/estacion/rojas-magallanes
+RN,,San Ramón,-33.541194,-70.643671,http://www.metro.cl/estacion/san-ramon
+RO,,Rondizzoni,-33.470043,-70.656331,http://www.metro.cl/estacion/rondizzoni
+RP,,República,-33.447952,-70.667564,http://www.metro.cl/estacion/republica
+RQ,,Quilín,-33.487999,-70.580231,http://www.metro.cl/estacion/quilin
+SA,,Salvador,-33.433107,-70.626585,http://www.metro.cl/estacion/salvador
+SB,,Simón Bolivar,-33.445904,-70.572037,http://www.metro.cl/estacion/simon-bolivar
+SI,,Santa Isabel,-33.447102,-70.630402,http://www.metro.cl/estacion/santa-isabel
+SJ,,San Joaquín,-33.498318,-70.616020,http://www.metro.cl/estacion/san-joaquin
+SL,,Santa Lucía,-33.442691,-70.645720,http://www.metro.cl/estacion/santa-lucia
+SM,,San Miguel,-33.488798,-70.651178,http://www.metro.cl/estacion/san-miguel
+SP,,San Pablo,-33.444226,-70.723315,http://www.metro.cl/estacion/san-pablo-l1
+SR,,Santa Rosa,-33.542511,-70.634125,http://www.metro.cl/estacion/santa-rosa
+TB,,Tobalaba,-33.418145,-70.601353,http://www.metro.cl/estacion/tobalaba-l1
+TO,,Toesca,-33.452965,-70.658577,http://www.metro.cl/estacion/toesca
+TR,,Trinidad,-33.547020,-70.587654,http://www.metro.cl/estacion/trinidad
+UC,,Universidad Católica,-33.440216,-70.640549,http://www.metro.cl/estacion/universidad-catolica
+US,,Universidad de Santiago,-33.452896,-70.686150,http://www.metro.cl/estacion/universidad-de-santiago
+VA,,Vicente Valdés,-33.526337,-70.596756,http://www.metro.cl/estacion/vicente-valdes-l4
+VM,,Vicuña Mackenna,-33.519642,-70.596069,http://www.metro.cl/estacion/vicuna-mackenna-l4
+ZA,,Zapadores,-33.390938,-70.642441,http://www.metro.cl/estacion/zapadores

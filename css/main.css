@@ -1,0 +1,206 @@
+
+body{
+	background-color: #DDDDDD;
+}
+
+nav img{
+	width: 50%;
+	height: auto;
+	
+}
+nav a{
+	padding: 5px 0px 0px 0px;
+}
+
+.slider.slider-horizontal,#values{
+	margin-top: 10px;
+}
+.slider.slider-horizontal{
+	margin-left: 20px;
+	margin-right: 20px;
+	width: 100%;
+}
+
+.btn{
+	padding-left: 5px;
+	padding-right: 5px;
+}
+#interval{
+	display: block;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	/*height: 100px;
+	width: 50px;*/
+	background: white;
+	opacity: 0.7;
+	border: 1px solid black;
+	border-radius: 3px;
+	padding: 5px;
+	font-size:16px;
+}
+#tooltip{
+	display: none;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	/*height: 100px;
+	width: 50px;*/
+	background: white;
+	opacity: 0.7;
+	border: 1px solid black;
+	border-radius: 3px;
+	padding: 5px;
+	
+}
+
+
+#map {
+	height: 100%;
+	width: 100%;
+	/*position: absolute;*/
+}
+
+#map-container {
+	/*display: block;
+	position: absolute;
+	left: 0;
+	right: 250px;
+	bottom: 0;
+	top: 0;*/
+	margin-top:10px;
+}
+
+.background {
+	fill: #ddd;
+}
+
+.santiago {
+	fill: #bbb;
+}
+
+.santiago.province {
+	fill: #ccc;
+}
+
+.line_branch {
+	fill: none !important;
+	stroke-width: 1px;
+	stroke-opacity: 0.1;
+}
+
+.line_branch.active {
+	stroke-opacity: 0.5;
+}
+
+.station_part {
+	stroke: white;
+	stroke-opacity: 0.3;
+	stroke-width: 0.5px;
+	fill-opacity: 0.8;
+}
+.tooltip{
+	width: 100px;
+}
+
+.station {
+	opacity: 0.1;
+}
+.station.active {
+	opacity: 1;
+}
+#header {
+	/*position: absolute;
+	padding: 0;
+	top: 0;
+	height: 44px;
+	right: 250px;
+	left: 0;*/
+}
+#header h1 {
+	margin: 16px;
+	text-align: center;
+	/*transform: perspective(100px) rotateX(-5deg);
+	-webkit-transform: perspective(100px) rotateX(-5deg);*/
+}
+
+#header h1 span {
+	/*font-size: 90%;
+	border: 6px solid white;
+	background-color: #22265b;
+	color: white;
+	font-weight: bolder;
+	font-family: "helvetica";
+	padding: 8px;
+	font-variant: small-caps;*/
+}
+
+#infos {
+	/*position: absolute;
+	padding: 10px;
+	width: 230px;
+	top: 0;
+	bottom: 0;
+	right: 0;*/
+}
+
+#infos h2 {
+	text-align: center;
+	line-height: 30px;
+	font-size: 28px;
+	margin: 4px 0;
+}
+
+#infos .infos_station, #infos .infos_line {
+	display: none;
+}
+
+#infos .infos_station h3 {
+	background-color: #22265b;
+	text-align: center;
+}
+#infos .infos_station h3 span {
+	font-size: 90%;
+	color: white;
+	font-weight: bolder;
+	font-family: "helvetica";
+	padding: 8px;
+	font-variant: small-caps;
+}
+#infos .infos_line .sign {
+	border-radius: 40px;
+	width: 40px;
+	height: 40px;
+	display: inline-block;
+	text-align: center;
+	padding: 0;
+}
+#infos .infos_line ul {
+	margin-left: 4px;
+	list-style: none;
+	font-size: 80%;
+}
+#infos .infos_line li {
+	line-height: 120%;
+	margin: 0;
+}
+#infos ul.sources {
+	margin-left: 4px;
+	list-style: none;
+	font-size: 80%;
+}
+#infos .sources li {
+	line-height: 120%;
+	margin: 0;
+}
+
+#dp {
+	background-color: #555;
+	padding-left: 10px;
+}
+#dp img {
+	width: 200px;
+}
+hr {
+	margin: 10px 0;
+}
